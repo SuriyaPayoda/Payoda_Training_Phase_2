@@ -1,0 +1,15 @@
+C:\Payoda_Phase2\C#\PayodaTrainingPhase2\SimplePrograms\bin\Debug\net7.0\SimplePrograms.exe
+C:\Payoda_Phase2\C#\PayodaTrainingPhase2\SimplePrograms\bin\Debug\net7.0\SimplePrograms.deps.json
+C:\Payoda_Phase2\C#\PayodaTrainingPhase2\SimplePrograms\bin\Debug\net7.0\SimplePrograms.runtimeconfig.json
+C:\Payoda_Phase2\C#\PayodaTrainingPhase2\SimplePrograms\bin\Debug\net7.0\SimplePrograms.dll
+C:\Payoda_Phase2\C#\PayodaTrainingPhase2\SimplePrograms\bin\Debug\net7.0\SimplePrograms.pdb
+C:\Payoda_Phase2\C#\PayodaTrainingPhase2\SimplePrograms\obj\Debug\net7.0\SimplePrograms.csproj.AssemblyReference.cache
+C:\Payoda_Phase2\C#\PayodaTrainingPhase2\SimplePrograms\obj\Debug\net7.0\SimplePrograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Payoda_Phase2\C#\PayodaTrainingPhase2\SimplePrograms\obj\Debug\net7.0\SimplePrograms.AssemblyInfoInputs.cache
+C:\Payoda_Phase2\C#\PayodaTrainingPhase2\SimplePrograms\obj\Debug\net7.0\SimplePrograms.AssemblyInfo.cs
+C:\Payoda_Phase2\C#\PayodaTrainingPhase2\SimplePrograms\obj\Debug\net7.0\SimplePrograms.csproj.CoreCompileInputs.cache
+C:\Payoda_Phase2\C#\PayodaTrainingPhase2\SimplePrograms\obj\Debug\net7.0\SimplePrograms.dll
+C:\Payoda_Phase2\C#\PayodaTrainingPhase2\SimplePrograms\obj\Debug\net7.0\refint\SimplePrograms.dll
+C:\Payoda_Phase2\C#\PayodaTrainingPhase2\SimplePrograms\obj\Debug\net7.0\SimplePrograms.pdb
+C:\Payoda_Phase2\C#\PayodaTrainingPhase2\SimplePrograms\obj\Debug\net7.0\SimplePrograms.genruntimeconfig.cache
+C:\Payoda_Phase2\C#\PayodaTrainingPhase2\SimplePrograms\obj\Debug\net7.0\ref\SimplePrograms.dll
