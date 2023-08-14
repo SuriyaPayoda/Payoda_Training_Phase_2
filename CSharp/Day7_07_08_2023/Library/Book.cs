@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DemoProgram
 {
-    internal class Book
+    internal class Book : ILendable
     {
         private readonly int bookId;
         private string? title;
