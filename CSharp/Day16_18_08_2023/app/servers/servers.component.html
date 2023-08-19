@@ -1,0 +1,23 @@
+<!--<p>{{'Server with number'}} {{ serverId}} id currently {{ serverStatus}}</p>-->
+<p>{{'server with name'}}{{getServerId()}} is currently {{getServerStatus()}}</p>
+
+<button class="btn btn-primary"
+ [disabled] ="!addNewServer"
+ (click)="onServerCreation()"
+ >
+ 
+ Add new Server</button>
+ <p *ngFor="let server of serversList">{{server}}</p>
+<!-- <p *ngIf="serverCreated=='Created'">{{serverCreated}}</p> -->
+<p *ngIf="serverCreated=='Created'; else beforeServer">{{serverCreated}}</p>
+<ng-template #beforeServer>
+    <p>{{serverCreated}}</p>
+    </ng-template>
+
+<p [innerHtml]="addNewServer"></p>
+<label>ServerName :</label>
+<!-- <input type="text" class="form-control" (input)="onServerNameEntry($event)"><br><br> -->
+<!-- <p>{{serverName}}</p> -->
+<input type="text"
+[(ngModel)]="serverName"><br><br>
+<p>{{serverName}}</p>
